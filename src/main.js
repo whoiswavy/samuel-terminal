@@ -1,12 +1,12 @@
 const COMMANDS = {
   help: 'Supported commands: ["<span class="code">about</span>", "<span class="code">experience</span>", "<span class="code">education</span>", "<span class="code">skills</span>", "<span class="code">contact</span>"]',
   about:
-    "Hello 👋<br>I'm Samuel Morah. I’m a 19 yr old programmer currently living in the Nigeria. I have a burning passion to want and help others with code that I create. I enjoy the limitless potential of impact that I can have with what I build. It is what pushes me every day to become a better developer.",
-  skills: '<span class="code">Languages:</span> Python, HTML, CSS, JavaScript<br><span class="code">Technologies:</span> Git, REST API\'s<br><span class="code">Frameworks:</span> React.js, Redux, Next.js, Sass, Vue.js',
+    "Hello 👋<br>I'm Samuel Morah. I’m a 20 yr old programmer currently living in the Nigeria. I have a burning passion to want and help others with code that I create. I enjoy the limitless potential of impact that I can have with what I build. It is what pushes me every day to become a better developer.",
+  skills: '<span class="code">Languages:</span> JavaScript, Python<br><span class="code">Technologies:</span> Git, REST API\'s<br><span class="code">Frameworks:</span> React.js',
   education: "(undergoing) B.Sc. Computer Science - American University of Nigeria",
   experience: "I'm currently working as a freelance front-end developer. My main areas of focus is helping my clients build e-commerce websites.",
   contact:
-    'You can contact me on any of the following links:<br>["<a target="_blank" rel="noopener noreferrer" href="https://github.com/whoiswavy" class="social link">GitHub</a>", "<a target="_blank" rel="noopener noreferrer" href="mailto:smorahschool@gmail.com" class="email link">Email</a>", "<a target="_blank" rel="noopener noreferrer" href="https://www.twitter.com/thankyouwavy/" class="social link">Twitter</a>"]',
+    'You can contact me on any of the following links:<br>["<a target="_blank" rel="noopener noreferrer" href="https://github.com/whoiswavy" class="social link">GitHub</a>", "<a target="_blank" rel="noopener noreferrer" href=mailto:"smorahschool@gmail.com" class="social link">Email</a>", "<a target="_blank" rel="noopener noreferrer" href="https://www.twitter.com/samcondoness/" class="social link">Twitter</a>"]',
   party: "🎉🎉🎉"
 };
 let userInput, terminalOutput;
